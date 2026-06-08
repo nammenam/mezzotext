@@ -1,0 +1,4 @@
+
+// TODO: add cli args
+// take in file with drawing commands or start tui mode
+// choose to output to stdout or file
